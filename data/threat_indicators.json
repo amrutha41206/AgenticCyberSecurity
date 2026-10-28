@@ -1,0 +1,23 @@
+
+{
+  "indicators": [
+    {
+      "type": "domain",
+      "value": "malware-example.test",
+      "status": "known_malicious",
+      "source": "Synthetic training dataset"
+    },
+    {
+      "type": "ip",
+      "value": "203.0.113.10",
+      "status": "suspicious",
+      "source": "Synthetic training dataset"
+    },
+    {
+      "type": "domain",
+      "value": "example.com",
+      "status": "known_benign",
+      "source": "Synthetic training dataset"
+    }
+  ]
+}

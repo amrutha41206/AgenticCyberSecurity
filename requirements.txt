@@ -1,0 +1,6 @@
+
+streamlit
+langgraph
+pefile
+pytest
+pandas
